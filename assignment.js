@@ -2,7 +2,7 @@
 //https://github.com/SakawatSakib/Assignment-3-js
 //Solution-1-Kilometer-to-meter-convertion---Start
 
-function KilometerToMeter(km) {
+function kilometerToMeter(km) {
 
     if (km > 0) {
         const meter = 1000 * km;
